@@ -26,6 +26,7 @@ export default class FBCollage extends React.Component<Props> {
 
     return (
       <TouchableOpacity
+        key={index}
         style={{
           ...(this.styles.BUTTON as ViewStyle),
           ...style
