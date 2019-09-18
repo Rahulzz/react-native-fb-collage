@@ -1,6 +1,10 @@
 # react-native-fb-collage
 Image Grid or Collage component for React Native
 
+This is a forked repo of meharbhutta/react-native-fb-collage
+
+Changes include - Key prop added to every child item in the array.
+
 <a href="https://twitter.com/intent/follow?screen_name=meharbhutta">
     <img 
         src="https://img.shields.io/twitter/follow/meharbhutta.svg?style=social&logo=twitter"
